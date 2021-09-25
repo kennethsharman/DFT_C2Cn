@@ -46,3 +46,4 @@ clusters). VESTA was used to build structures/plot wavefunctions.
 	- Differences in total energies are used to determine transition
 	  energies between states.	
 	- Ground state wavefunctions were plotted ('/3 - scf/2A2/VESTA').  
+	
