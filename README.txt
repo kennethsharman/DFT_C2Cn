@@ -1,6 +1,6 @@
 ***** Carbon trimer (C2Cn) DFT analysis *****
 QUANTUM ESPRESSO calculations performed via Compute Canada (cedar and graham
-clusters). VESTA was used to build structures/plot wavefunctioins.
+clusters). VESTA was used to build structures/plot wavefunctions.
 
 *** Overview ***
 	1) Optimized hBN (atomic positions, lattice constant, bandgap).
