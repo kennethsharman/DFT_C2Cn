@@ -32,7 +32,9 @@ clusters). VESTA was used to build structures/plot wavefunctions.
 	- Adjusted screening_parameter for band gap of 5.99 eV (/2 - scf/).
 
 	'2 - C2Cn' : Folder contains results of my investgation into C2Cn.
-	- Delta SCF method was used to construct excited states (15 A vacuum). 
+	- Delta SCF method was used to construct excited states (15 A vacuum).
+	- Ground state name (group theory notation): 2A2
+	- Excited state names: 	2B2, 2B2p, 4A2, 2A2p1, 2A2p2, 2A2p3.
 	- Ground and excited state geometries were allowed to relax until
 	  reaching a convergence threshold of 10^-4 eV/A ('/1 - relax/'). 
 	- Covergence test was performed on ground state to determine the 
